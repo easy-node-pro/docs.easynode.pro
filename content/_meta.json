@@ -1,0 +1,91 @@
+{
+  "-- Welcome --": {
+    "type": "separator",
+    "title": "Welcome"
+  },
+  "index": "Site Intro",
+  "-- Skills --": {
+    "type": "separator",
+    "title": "Skills"
+  },
+  "admin": "Server Admin Tools",
+  "power": "Power Users",
+  "-- Validators --": {
+    "type": "separator",
+    "title": "Validators"
+  },
+  "serv": "SERV Guides",
+  "harmony": "Harmony Guides",
+  "fractal": "Fractal Guides",
+  "-- Developers --": {
+    "type": "separator",
+    "title": "Developers"
+  },
+  "api-docs": "API Guides",
+  "-- $ENP --": {
+    "type": "separator",
+    "title": "ENP Token"
+  },
+  "whitepaper": "White Paper",
+  "-- Space --": {
+    "type": "separator",
+    "title": ""
+  },
+  "-- Extras --": {
+    "type": "separator",
+    "title": "Extras"
+  },
+  "suggest": "Suggestions?",
+  "shoutout": "Shout Outs!",
+  "updates": "Updates Log",
+  "company": {
+    "title": "⚡ EasyNodePro.com ⚡",
+    "type": "menu",
+    "items": {
+      "easynode": {
+        "title": "Website",
+        "href": "https://easynodepro.com",
+        "newWindow": true
+      },
+      "discord": {
+        "title": "Discord",
+        "href": "https://mee6.xyz/i/TvaDiyZ9hc",
+        "newWindow": true
+      },
+      "telegram": {
+        "title": "Telegram",
+        "href": "https://t.me/easynodestaking",
+        "newWindow": true
+      },
+      "twitter": {
+        "title": "Twitter",
+        "href": "https://twitter.com/easynode",
+        "newWindow": true
+      },
+      "youtube": {
+        "title": "YouTube",
+        "href": "https://youtube.com/@easynode",
+        "newWindow": true
+      },
+      "staking": {
+        "title": "Validators",
+        "href": "https://easynodepro.com/ourvalidators",
+        "newWindow": true
+      }
+    }
+  },
+  "support": {
+    "title": "Support",
+    "type": "page"
+  },
+  "about": {
+    "title": "About",
+    "type": "page"
+  },
+  "contact": {
+    "title": "Links ↗",
+    "type": "page",
+    "href": "https://easynodepro.com/links",
+    "newWindow": true
+  }
+}
